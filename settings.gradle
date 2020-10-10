@@ -1,0 +1,4 @@
+rootProject.name='PhoneOrientationService'
+include ':app'
+include ':orientationlib'
+include ':orietationclientapp'
